@@ -1,0 +1,24 @@
+
+[
+  {
+    "id": "contest-001",
+    "title": "패션 일러스트 공모전",
+    "category": "FASHION DESIGN",
+    "deadline": "모집 일정 확인 예정",
+    "url": ""
+  },
+  {
+    "id": "contest-002",
+    "title": "가방 디자인 공모전",
+    "category": "ACCESSORY DESIGN",
+    "deadline": "모집 일정 확인 예정",
+    "url": ""
+  },
+  {
+    "id": "contest-003",
+    "title": "패션 브랜드 디자인 공모전",
+    "category": "BRAND DESIGN",
+    "deadline": "모집 일정 확인 예정",
+    "url": ""
+  }
+]
