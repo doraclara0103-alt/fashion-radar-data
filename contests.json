@@ -26,5 +26,12 @@
     "category": "TEXTILE DESIGN",
     "deadline": "모집 일정 확인 예정",
     "url": ""
+  },
+  {
+    "id": "contest-005",
+    "title": "Fashion Radar 자동 추가 테스트",
+    "category": "패션디자인",
+    "deadline": "2026-12-31",
+    "url": "https://example.com"
   }
 ]
